@@ -24,5 +24,3 @@ Lives and Scoring: You have three lives. The game ends when all lives are lost. 
 Credits:
 The game was developed by Lu Qiao.
 Special thanks to the University of Nottingham COMP2013 professors and TAs.
-
-Screenshots:
