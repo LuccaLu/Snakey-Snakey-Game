@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"com.example.comp2013cw","l":"Snakey"},{"m":"com.example.comp2013cw","l":"Snakey.Controller"},{"m":"com.example.comp2013cw","l":"Snakey.Model"},{"m":"com.example.comp2013cw","l":"Snakey.View"}];updateSearchResults();
